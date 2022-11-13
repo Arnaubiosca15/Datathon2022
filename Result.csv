@@ -1,0 +1,157 @@
+,Any,Districte,Nombre
+0,2007,Ciutat Vella,5760
+1,2007,Eixample,15982
+2,2007,Gràcia,7083
+3,2007,Horta-Guinardó,8467
+4,2007,Les Corts,3798
+5,2007,No consta,53
+6,2007,Nou Barris,8662
+7,2007,Sant Andreu,6574
+8,2007,Sant Martí,10191
+9,2007,Sants-Montjuïc,9123
+10,2007,Sarrià-Sant Gervasi,7039
+11,2008,Ciutat Vella,5560
+12,2008,Eixample,15895
+13,2008,Gràcia,7143
+14,2008,Horta-Guinardó,8587
+15,2008,Les Corts,3912
+16,2008,No consta,50
+17,2008,Nou Barris,8774
+18,2008,Sant Andreu,6643
+19,2008,Sant Martí,10386
+20,2008,Sants-Montjuïc,9198
+21,2008,Sarrià-Sant Gervasi,7049
+22,2009,Ciutat Vella,5428
+23,2009,Eixample,15955
+24,2009,Gràcia,7138
+25,2009,Horta-Guinardó,8860
+26,2009,Les Corts,3996
+27,2009,No consta,38
+28,2009,Nou Barris,8959
+29,2009,Sant Andreu,6771
+30,2009,Sant Martí,10667
+31,2009,Sants-Montjuïc,9251
+32,2009,Sarrià-Sant Gervasi,7129
+33,2010,Ciutat Vella,5298
+34,2010,Eixample,16049
+35,2010,Gràcia,7190
+36,2010,Horta-Guinardó,9049
+37,2010,Les Corts,4116
+38,2010,No consta,17
+39,2010,Nou Barris,9192
+40,2010,Sant Andreu,6948
+41,2010,Sant Martí,10933
+42,2010,Sants-Montjuïc,9395
+43,2010,Sarrià-Sant Gervasi,7307
+44,2011,Ciutat Vella,5200
+45,2011,Eixample,16149
+46,2011,Gràcia,7279
+47,2011,Horta-Guinardó,9286
+48,2011,Les Corts,4261
+49,2011,No consta,10
+50,2011,Nou Barris,9318
+51,2011,Sant Andreu,7032
+52,2011,Sant Martí,11103
+53,2011,Sants-Montjuïc,9417
+54,2011,Sarrià-Sant Gervasi,7419
+55,2012,Ciutat Vella,5037
+56,2012,Eixample,16188
+57,2012,Gràcia,7297
+58,2012,Horta-Guinardó,9349
+59,2012,Les Corts,4340
+60,2012,No consta,5
+61,2012,Nou Barris,9421
+62,2012,Sant Andreu,7139
+63,2012,Sant Martí,11198
+64,2012,Sants-Montjuïc,9410
+65,2012,Sarrià-Sant Gervasi,7591
+66,2013,Ciutat Vella,4945
+67,2013,Eixample,16330
+68,2013,Gràcia,7306
+69,2013,Horta-Guinardó,9464
+70,2013,Les Corts,4508
+71,2013,Nou Barris,9605
+72,2013,Sant Andreu,7381
+73,2013,Sant Martí,11303
+74,2013,Sants-Montjuïc,9472
+75,2013,Sarrià-Sant Gervasi,7704
+76,2014,Ciutat Vella,4768
+77,2014,Eixample,16270
+78,2014,Gràcia,7281
+79,2014,Horta-Guinardó,9617
+80,2014,Les Corts,4617
+81,2014,Nou Barris,9792
+82,2014,Sant Andreu,7549
+83,2014,Sant Martí,11438
+84,2014,Sants-Montjuïc,9503
+85,2014,Sarrià-Sant Gervasi,7771
+86,2015,Ciutat Vella,4662
+87,2015,Eixample,16235
+88,2015,Gràcia,7240
+89,2015,Horta-Guinardó,9633
+90,2015,Les Corts,4714
+91,2015,Nou Barris,9799
+92,2015,Sant Andreu,7600
+93,2015,Sant Martí,11582
+94,2015,Sants-Montjuïc,9517
+95,2015,Sarrià-Sant Gervasi,7741
+96,2016,Ciutat Vella,4619
+97,2016,Eixample,16318
+98,2016,Gràcia,7242
+99,2016,Horta-Guinardó,9667
+100,2016,Les Corts,4740
+101,2016,Nou Barris,9857
+102,2016,Sant Andreu,7644
+103,2016,Sant Martí,11586
+104,2016,Sants-Montjuïc,9511
+105,2016,Sarrià-Sant Gervasi,7823
+106,2017,Ciutat Vella,4441
+107,2017,Eixample,15877
+108,2017,Gràcia,7059
+109,2017,Horta-Guinardó,9600
+110,2017,Les Corts,4703
+111,2017,Nou Barris,9826
+112,2017,Sant Andreu,7617
+113,2017,Sant Martí,11509
+114,2017,Sants-Montjuïc,9395
+115,2017,Sarrià-Sant Gervasi,7639
+116,2018,Ciutat Vella,4352
+117,2018,Eixample,15880
+118,2018,Gràcia,7126
+119,2018,Horta-Guinardó,9655
+120,2018,Les Corts,4771
+121,2018,Nou Barris,9797
+122,2018,Sant Andreu,7661
+123,2018,Sant Martí,11597
+124,2018,Sants-Montjuïc,9426
+125,2018,Sarrià-Sant Gervasi,7753
+126,2019,Ciutat Vella,4249
+127,2019,Eixample,15742
+128,2019,Gràcia,7132
+129,2019,Horta-Guinardó,9702
+130,2019,Les Corts,4844
+131,2019,Nou Barris,9732
+132,2019,Sant Andreu,7700
+133,2019,Sant Martí,11687
+134,2019,Sants-Montjuïc,9450
+135,2019,Sarrià-Sant Gervasi,7792
+136,2020,Ciutat Vella,4186
+137,2020,Eixample,15683
+138,2020,Gràcia,7232
+139,2020,Horta-Guinardó,9662
+140,2020,Les Corts,4844
+141,2020,Nou Barris,9780
+142,2020,Sant Andreu,7731
+143,2020,Sant Martí,11689
+144,2020,Sants-Montjuïc,9389
+145,2020,Sarrià-Sant Gervasi,7833
+146,2021,Ciutat Vella,4084
+147,2021,Eixample,15607
+148,2021,Gràcia,7227
+149,2021,Horta-Guinardó,9602
+150,2021,Les Corts,4910
+151,2021,Nou Barris,9886
+152,2021,Sant Andreu,7835
+153,2021,Sant Martí,11766
+154,2021,Sants-Montjuïc,9381
+155,2021,Sarrià-Sant Gervasi,7863
